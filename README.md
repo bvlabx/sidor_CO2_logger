@@ -20,7 +20,7 @@ interface (SIDOR Operating Instructions 8010939 V2.3, chapter 10).
   away — no extra button needed just to see live data.
 - The historical chart's time window is independently selectable (last
   1/5/15/30 min, 1/4/24 hours, or all data), and its x-axis shows each
-  sample's timestamp as **DDMMYYYY HH:MM:SS**.
+  sample's timestamp as **DDMMYY HH:MM**.
 - Logging to CSV is a separate, optional toggle layered on top of the live
   view: pick a file and click **Start logging** whenever you want the
   readings being displayed to also be saved.
